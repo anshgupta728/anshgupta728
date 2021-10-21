@@ -1,7 +1,7 @@
 #            - 👋 Hi, I’m Ansh Gupta
 ## A passionate Computer Science enthusiast from India
             
-- 💻 All of my work is available at https://github.com/anshgupta0511
+- 💻 All of my work is available at https://github.com/anshgupta728
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 📫 Reach me at anshgupta0511@gmail.com
 
